@@ -1,0 +1,20 @@
+1
+00:00:01,74 --> 00:00:11,74
+- The Gang of Four breaks patterns into three groups. Those groups are Creational, Structural, and Behavioral.
+
+2
+00:00:11,74 --> 00:00:17,74
+- This course is going to focus on patterns classified under the creational group.
+
+3
+00:00:17,74 --> 00:00:21,74
+- Creational parts are focused on, as you might guess, how objects are created.
+
+4
+00:00:21,74 --> 00:00:29,74
+- There's a lot more than just replacing the keyword new, though, when talking about creational patterns.
+
+5
+00:00:29,74 --> 00:00:41,146
+- The two remaining groups, structural and behavioral, are covered in two separate courses much like this one.
+

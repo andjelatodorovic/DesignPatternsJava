@@ -1,0 +1,24 @@
+1
+00:00:00,0 --> 00:00:07,917
+- Each module in this course is going to be structured to where we first give an overview of what the pattern
+
+2
+00:00:07,917 --> 00:00:15,917
+- is, then the concepts when choosing to use this pattern, what you need to consider as part of the design.
+
+3
+00:00:15,917 --> 00:00:22,917
+- We will cover a live example of how it's used in the Java API. Then we're going to go through a demo where
+
+4
+00:00:22,917 --> 00:00:29,917
+- you end up coding your own design pattern. We'll discuss the pitfalls of this pattern, contrast it with
+
+5
+00:00:29,917 --> 00:00:36,917
+- another pattern, and then give a summary, an overview of what we covered, and how this pattern applies in
+
+6
+00:00:36,917 --> 00:00:40,496
+- day-to-day use.
+

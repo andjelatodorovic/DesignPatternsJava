@@ -1,0 +1,16 @@
+1
+00:00:02,0 --> 00:00:08,428
+- The creational patterns that we are going to cover or discuss by the Gang of Four are as follows:
+
+2
+00:00:08,428 --> 00:00:18,428
+- the singleton pattern, the builder pattern, a prototype pattern, the factory, and then finally the AbstractFactory.
+
+3
+00:00:18,428 --> 00:00:25,0
+- We will implement all of these patterns and compare and contrast them to one another and describe when the
+
+4
+00:00:25,0 --> 00:00:30,511
+- best case to use each individual one is.
+

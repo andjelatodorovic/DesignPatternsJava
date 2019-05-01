@@ -1,0 +1,24 @@
+1
+00:00:00,0 --> 00:00:08,0
+- So you've just been in an interview, and someone asked you to describe a design pattern, or maybe you were
+
+2
+00:00:08,0 --> 00:00:13,0
+- just describing a problem to a coworker and they said it sounds like you're reinventing the wheel.
+
+3
+00:00:13,0 --> 00:00:19,0
+- They might have even said to you that it sounds like you're describing a factory or a singleton.
+
+4
+00:00:19,0 --> 00:00:23,0
+- If this sounds like a situation that you've been in, then this course is for you.
+
+5
+00:00:23,0 --> 00:00:29,0
+- Our focus in this course is on presenting the design patterns described in the Gang of Four in an example
+
+6
+00:00:29,0 --> 00:00:39,33
+- driven away using Java to do so. Hi. I'm Bryan Hansen, and welcome to Creational Design Patterns using Java.
+

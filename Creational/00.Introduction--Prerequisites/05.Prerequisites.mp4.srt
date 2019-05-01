@@ -1,0 +1,28 @@
+1
+00:00:01,0 --> 00:00:09,921
+- The prerequisites for this course are actually quite simple. I am using Java 7, but Java 7 or 8 will work
+
+2
+00:00:09,921 --> 00:00:15,921
+- just fine, and then I'm going to be using Spring STS, which is just a flavor of Eclipse.
+
+3
+00:00:15,921 --> 00:00:22,921
+- Honestly though, this code will work with any IDE out there if you prefer IntelliJ over Eclipse or Spring
+
+4
+00:00:22,921 --> 00:00:28,921
+- STS over Eclipse. Any of them are going to run just fine. You could even run the code in a simple text
+
+5
+00:00:28,921 --> 00:00:34,921
+- editor and compile it on the command line as we don't have a very complex package structure, and it should
+
+6
+00:00:34,921 --> 00:00:41,500
+- work just fine. I like Spring STS because it seems to work and be a little bit more stable than Eclipse,
+
+7
+00:00:41,500 --> 00:00:48,344
+- but it's really dealer's choice. You can choose to use whatever you want.
+

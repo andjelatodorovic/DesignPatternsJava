@@ -1,0 +1,44 @@
+1
+00:00:01,967 --> 00:00:07,967
+- You might ask yourself why design patterns are important. I first learned patterns as a means of
+
+2
+00:00:07,967 --> 00:00:13,967
+- communicating a problem to another developer. You may very well already know how to solve a particular
+
+3
+00:00:13,967 --> 00:00:19,967
+- problem, and it might follow the structure of a pattern, but it's better to have a common vocabulary that you
+
+4
+00:00:19,967 --> 00:00:25,967
+- can explain to someone what that problem is. Patterns are an abstract topic.
+
+5
+00:00:25,967 --> 00:00:31,967
+- It isn't something that you look at the concept and then have it memorized and know how to apply it from there.
+
+6
+00:00:31,967 --> 00:00:37,967
+- Some patterns are more easily applied to particular problems than another, so I suggest revisiting pattern
+
+7
+00:00:37,967 --> 00:00:45,967
+- material as you develop more and more programming experience. Whether it be this course or a book or
+
+8
+00:00:45,967 --> 00:00:51,967
+- something else, it is amazing how your perception of a pattern will change after gaining more experience with it.
+
+9
+00:00:51,967 --> 00:00:57,967
+- You might come away with a different understanding of it after applying it through different coding practices.
+
+10
+00:00:57,967 --> 00:01:03,967
+- A lot of people have used a singleton and think they have used design patterns, but there's much more than
+
+11
+00:01:03,967 --> 00:01:08,894
+- just a singleton out there.
+

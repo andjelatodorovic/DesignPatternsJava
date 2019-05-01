@@ -1,0 +1,8 @@
+1
+00:00:00,0 --> 00:00:04,577
+- So that covers the introduction and prerequisites for this course.
+
+2
+00:00:04,577 --> 00:00:12,632
+- Let's go ahead and get started by now looking at the singleton pattern.
+
